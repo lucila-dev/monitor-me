@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+.eggs/
+dist/
+build/
+Monitor Me.app/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+database/*.db
+database/*.db-*
+*.log
+assets/AppIcon.iconset/
